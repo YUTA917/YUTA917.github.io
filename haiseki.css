@@ -1,3 +1,15 @@
+/* @keyframes name {
+    0% { background: red; }
+    30% { background: orange; }
+    60% { background: pink; }
+    100% { background: red; }
+  }
+
+
+body {
+    animation: name 5s infinite;
+  } */
+
 input#button2 {   display: inline-block;
     padding: 0.3em 3em;
     background-color: #e3364a; /* 背景色 */
